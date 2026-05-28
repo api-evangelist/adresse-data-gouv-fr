@@ -1,0 +1,32 @@
+aid: adresse-data-gouv-fr
+name: adresse.data.gouv.fr
+description: "Address database of France, geocoding and reverse"
+url: https://adresse.data.gouv.fr
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Geocoding"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Geocoding
+  - Public APIs
+apis:
+  - name: adresse.data.gouv.fr
+    description: "Address database of France, geocoding and reverse"
+    humanURL: https://adresse.data.gouv.fr
+    baseURL: https://adresse.data.gouv.fr
+    tags:
+      - Geocoding
+    properties:
+      - type: Documentation
+        url: https://adresse.data.gouv.fr
+common:
+  - type: Website
+    url: https://adresse.data.gouv.fr
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
