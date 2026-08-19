@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/adresse-da
 name: adresse.data.gouv.fr
 description: "Address database of France, geocoding and reverse"
 url: https://adresse.data.gouv.fr
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
