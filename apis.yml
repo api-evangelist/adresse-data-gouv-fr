@@ -39,7 +39,6 @@ apis:
   - name: adresse.data.gouv.fr
     description: "Address database of France, geocoding and reverse"
     humanURL: https://adresse.data.gouv.fr
-    baseURL: https://adresse.data.gouv.fr
     tags:
       - Geocoding
     properties:
