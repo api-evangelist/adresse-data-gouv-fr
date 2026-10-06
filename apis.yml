@@ -27,7 +27,7 @@ description: "Address database of France, geocoding and reverse"
 url: https://adresse.data.gouv.fr
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Geocoding"
 x-tier: 3
@@ -45,6 +45,8 @@ apis:
       - type: Documentation
         url: https://adresse.data.gouv.fr
 common:
+  - url: https://adresse.data.gouv.fr/blog
+    type: Blog
   - type: DomainSecurity
     url: security/adresse-data-gouv-fr-domain-security.yml
   - type: Website
