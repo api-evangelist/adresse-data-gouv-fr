@@ -1,0 +1,14 @@
+{
+  "repo": "adresse-data-gouv-fr",
+  "feeds": [
+    {
+      "source": "https://adresse.data.gouv.fr/blog",
+      "feed_url": "https://adresse.data.gouv.fr/blog",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-10T13:15:00Z"
+}
