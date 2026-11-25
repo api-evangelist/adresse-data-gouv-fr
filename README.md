@@ -84,27 +84,33 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adresse Data Gouv Fr Domain Security](https://apis.io/security/adresse-data-gouv-fr/adresse-data-gouv-fr-domain-security/)
+- [adresse.data.gouv.fr Domain Security](https://apis.io/security/adresse-data-gouv-fr/adresse-data-gouv-fr-domain-security/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://adresse.data.gouv.fr)
+- [Documentation](https://doc.adresse.data.gouv.fr/)
+- [Support](https://www.data.gouv.fr/support/collectivite-territoriale/certification)
 - [Blog](https://adresse.data.gouv.fr/blog)
+- [Terms of service](https://adresse.data.gouv.fr/mentions-legales)
+- [Privacy policy](https://adresse.data.gouv.fr/donnees-personnelles)
+- [GitHub](https://github.com/BaseAdresseNationale)
+- [Status](https://status.adresse.data.gouv.fr/)
 
 ## API Evangelist rating
 
-**Kin Score 5.6** — minimal · rubric 0.24.0 · scored 2026-10-17
+**Kin Score 12.8** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
 | Discoverability | 46.4 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 0.0 |
-| Developer ergonomics | 11.9 |
-| Access clarity | 0.0 |
+| Operational transparency | 19.0 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 17.0 |
 
 **Agent readiness 0.0** — human-only
 
@@ -129,8 +135,14 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Protected Resource Metadata | — |
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adresse-data-gouv-fr/](https://apis.io/providers/adresse-data-gouv-fr/).
 
